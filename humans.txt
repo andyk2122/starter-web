@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrew Kelly -- andyk2122@gmail.com -- @andyk2122
 
 # THANKS
 
